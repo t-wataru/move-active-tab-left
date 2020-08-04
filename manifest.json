@@ -2,7 +2,7 @@
    "manifest_version": 2,
    "name": "move active tab left",
    "description": "move active tab left",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "content_scripts": [ {
       "all_frames": true,
       "matches": [ "http://*/*", "https://*/*", "ftp://*/*" ],
