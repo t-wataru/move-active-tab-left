@@ -1,4 +1,4 @@
-let bt3debug = true;
+let bt3debug = false;
 function debugLog(message) {
   bt3debug && console.log(message)
 }

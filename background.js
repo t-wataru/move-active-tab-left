@@ -1,4 +1,4 @@
-let debug = true;
+let debug = false;
 
 browser.tabs.onActivated.addListener((tab) => {
   debug && console.log(tab)
